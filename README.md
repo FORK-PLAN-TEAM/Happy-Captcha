@@ -257,7 +257,5 @@ public void captcha(HttpServletRequest req,HttpServletResponse res){
 
 ## 结束语
 
-Happy Captcha参考了一些优秀的验证码框架设计，同时引用了一些第三方的编码类，在此统一表示感谢！如果你觉得Happy Captcha对你有所帮助，扫描下方二维码，请作者喝杯咖啡吧~~~
-
-<img src="https://images.gitee.com/uploads/images/2020/0517/225742_4b73b498_535045.png" style="zoom:40%;" /> **OR** <img src="https://images.gitee.com/uploads/images/2020/0517/225741_c9992a20_535045.jpeg" style="zoom: 25%;" />
+Happy Captcha参考了一些优秀的验证码框架设计，同时引用了一些第三方的编码类，在此统一表示感谢！如果你觉得Happy Captcha对你有所帮助,请作者喝杯咖啡吧~~
 
