@@ -1,6 +1,6 @@
 <img src="https://images.gitee.com/uploads/images/2020/0517/225738_a739a7e8_535045.png" style="zoom:150%;display:block;margin:1px auto;" />
 
-![](https://img.shields.io/badge/Name-HappyCaptcha-brightgreen) ![](https://img.shields.io/badge/Version-1.0.1-brightgreen) ![](https://img.shields.io/badge/JDK-JDK1.8-brightgreen) ![](https://img.shields.io/badge/License-Apache 2.0-brightgreen) ![](https://img.shields.io/badge/Author-ramostear-brightgreen)
+![](https://img.shields.io/badge/Name-HappyCaptcha-brightgreen) ![](https://img.shields.io/badge/Version-1.0.1-brightgreen) ![](https://img.shields.io/badge/JDK-JDK1.8-brightgreen) ![](https://img.shields.io/badge/License-Apache2.0-brightgreen) ![](https://img.shields.io/badge/Author-ramostear-brightgreen)
 
 ___
 
